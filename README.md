@@ -37,6 +37,7 @@ conda activate techChallengeFase1Grupo44
 
 ```bash
 conda install jupyter
+conda install -c conda-forge chardet
 ```
 
 ### Passo 4: Instalar o VS Code (Se ainda não estiver instalado)
@@ -73,6 +74,7 @@ streamlit hello
 Instale os complementos
 
 - Python (Microsoft)
+- Pylance (Microsoft)
 - Jupyter Notebook (Microsoft)
 
 ### Executando
