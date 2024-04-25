@@ -1,5 +1,8 @@
 import streamlit as st
 import pandas as pd
+import chardet
+
+anos_analisados = list(range(2008, 2023))
 
 st.markdown('# Tech Challenge - Grupo 44')
 
@@ -18,7 +21,7 @@ st.markdown('b. País de destino;')
 st.markdown('c. Quantidade em litros de vinho exportado (utilize: 1KG =1L);')
 st.markdown('d. Valor em US$;')
 
-st.markdown('Os dados que lhe forneceram são de uma vinícola parceira, e podem ser encontrados aqui (http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01).')
+st.markdown('Os dados que lhe forneceram são de uma vinícola parceira, e podem ser encontrados [aqui](http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01).')
 
 st.markdown('## Objetivo')
 
@@ -29,3 +32,37 @@ st.markdown('>**DICA**: Para construir uma boa análise, utilize várias bases d
 st.markdown('Lembre-se de que você poderá apresentar o desenvolvimento do seu projeto durante as lives com docentes no Discord! Essa é uma boa oportunidade para discutir sobre as dificuldades encontradas e pegar dicas valiosas com especialistas e colegas de turma.')
 
 st.markdown('>**IMPORTANTE**: Não esqueça de que este é um entregável obrigatório! Se atente para o prazo de entrega até o final da fase!')
+
+csv_vitibrasil_producao = pd.read_csv('./dados_originais/embrapa/Producao.csv', sep=";")
+csv_vitibrasil_comercio = pd.read_csv('./dados_originais/embrapa/Comercio.csv', sep=";")
+csv_vitibrasil_exportacao = pd.read_csv('./dados_originais/embrapa/ExpVinho.csv', sep=";")
+csv_vitibrasil_importacao = pd.read_csv('./dados_originais/embrapa/ImpVinhos.csv', sep=";")
+csv_vitibrasil_processamento = pd.read_csv('./dados_originais/embrapa/ProcessaViniferas.csv', sep=";")
+
+def importacao_dados_inmet(csv_file_path : str):
+
+  with open (csv_file_path, "rb") as file:
+    bytes = file.read(100)
+
+  encoding_file = chardet.detect(bytes)
+
+  if encoding_file.get("encoding") == 'ascii':
+    encoding_file = 'ISO-8859-1'
+  else:
+    encoding_file = encoding_file.get("encoding")
+
+  return pd.read_csv(csv_file_path
+                              , sep=";"
+                              , encoding=encoding_file
+                              , skiprows=8)
+
+csv_inmet_por_ano = {}
+
+for ano in anos_analisados:
+  csv_inmet_por_ano[ano] = importacao_dados_inmet(f'./dados_originais/INMET/INMET_S_RS_A840_BENTO GONCALVES_01-01-{ano}_A_31-12-{ano}.CSV')
+
+st.dataframe(csv_inmet_por_ano[2020])
+
+tabela_descritiva = csv_inmet_por_ano[2020].T
+
+st.table(tabela_descritiva)
