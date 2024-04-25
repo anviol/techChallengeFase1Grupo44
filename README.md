@@ -1,7 +1,9 @@
-# techChallengeFase1Grupo44
+# Tech Challenge Fase 1 Grupo 44
 Trabalho em grupo do curso de analise da dados da Fiap
 
 # Trabalhando a apresentação com o Stream Lite, no VS Code, no Windows
+
+Instalação baseada na documentação [Docs Streamlit](https://docs.streamlit.io/get-started/installation/anaconda-distribution)
 
 ## Passo 1: Instalar o Anaconda
 
