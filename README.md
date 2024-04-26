@@ -22,7 +22,7 @@ Instalação baseada na documentação [Docs Streamlit](https://docs.streamlit.i
 ### Via linha de comando:
 
 ```bash
-conda create -n techChallengeFase1Grupo44 python=3.11.9 pandas=2.2.1
+conda create -n techChallengeFase1Grupo44 python=3.11.9 pandas=2.2.1 chardet=4.0.0 streamlit=1.32.0 jupyter=7.0.8
 conda activate techChallengeFase1Grupo44
 ```
 
@@ -36,9 +36,10 @@ conda activate techChallengeFase1Grupo44
 ### Via linha de comando:
 
 ```bash
-conda install jupyter
-conda install -c conda-forge chardet
+conda install [PACOTE]
+conda install -c conda-forge [PACOTE]
 ```
+>**Observação**: Por enquanto instalamos todos os pacotes no momento da criaçao, não precisa executar esses comandos, mas vou deixa-los de exemplo.
 
 ### Passo 4: Instalar o VS Code (Se ainda não estiver instalado)
 
@@ -80,7 +81,7 @@ Instale os complementos
 ### Executando
 
 ```bash
-streamlit run .\tech_challenge.py
+streamlit run .\src\tech_challenge.py
 ```
 
 Para que atualize a cada alteração salva basta clicar em "Always rerun" na tela do navegador após a primeira modificação no arquivo. 
