@@ -1,0 +1,199 @@
+;Region/Country;Qtd_Litros
+0;Afghanistan;1800000
+1;Albania;335200000
+2;Algeria;432800000
+3;American Samoa;400000
+4;Angola;1197200000
+5;Antigua and Barbuda;22500000
+6;Argentina;14254700000
+7;Armenia;95200000
+8;Australia;8142500000
+9;Austria;3703600000
+10;Azerbaijan;108100000
+11;Bahamas;51500000
+12;Bahrain;26700000
+13;Bangladesh;1800000
+14;Barbados;38000000
+15;Belarus;1213100000
+16;Belgium;4102400000
+17;Belize;15800000
+18;Benin;56300000
+19;Bermuda;28800000
+20;Bolivia;129000000
+21;Bosnia and Herzegovina;173800000
+22;Botswana;75900000
+23;Brazil;5234800000
+24;Brunei Darussalam;100000
+25;Bulgaria;1051300000
+26;Burkina Faso;85400000
+27;Burundi;4000000
+28;Cabo Verde;82700000
+29;Cambodia;18000000
+30;Cameroon;170300000
+31;Canada;7322800000
+32;Central African Republic;7100000
+33;Chad;14200000
+34;Chile;4019000000
+35;China, Hong Kong SAR;458900000
+36;China, Macao SAR;70800000
+37;China, Taiwan Province of;272300000
+38;China, mainland;23584400000
+39;Colombia;257000000
+40;Comoros;3200000
+41;Congo;48100000
+42;Congo (the Democratic Republic of the);46400000
+43;Cook Islands;3200000
+44;Costa Rica;142900000
+45;Croatia;1843300000
+46;Cuba;253000000
+47;Cyprus;235800000
+48;Czech Republic;3137300000
+49;Côte d'Ivoire;554700000
+50;Denmark;2327200000
+51;Djibouti;4500000
+52;Dominica;2100000
+53;Dominican Republic;132500000
+54;Ecuador;106000000
+55;Egypt;97400000
+56;El Salvador;32300000
+57;Estonia;381200000
+58;Eswatini;21100000
+59;Ethiopia;24000000
+60;Faroe Islands;6900000
+61;Fiji;20300000
+62;Finland;763600000
+63;France;40914800000
+64;French Guiana;1700000
+65;French Polynesia;47300000
+66;Gabon;104100000
+67;Gambia;500000
+68;Georgia;1324100000
+69;Germany;30106200000
+70;Ghana;116600000
+71;Global;3,60697E+11
+72;Greece;3914100000
+73;Greenland;9100000
+74;Grenada;62300000
+75;Guadeloupe;0
+76;Guam;700000
+77;Guinea;10500000
+78;Guinea-Bissau;117800000
+79;Guyana;1600000
+80;Haiti;17800000
+81;Honduras;25300000
+82;Hungary;3482800000
+83;Iceland;67000000
+84;India;292500000
+85;Indonesia;20600000
+86;Iran;100000
+87;Iraq;9300000
+88;Ireland;1143200000
+89;Israel;72000000
+90;Italy;33871800000
+91;Jamaica;50600000
+92;Japan;4776800000
+93;Jordan;3400000
+94;Kazakhstan;564300000
+95;Kenya;86300000
+96;Kiribati;0
+97;Korea (the Republic of);574800000
+98;Kyrgyzstan;51100000
+99;Lao People's Democratic Republic;25300000
+100;Latvia;129900000
+101;Lebanon;121400000
+102;Lesotho;12600000
+103;Liberia;8000000
+104;Libya;600000
+105;Lithuania;476500000
+106;Luxemburg;395900000
+107;Madagascar;131900000
+108;Malawi;6500000
+109;Malaysia;86200000
+110;Maldives;23800000
+111;Mali;11700000
+112;Malta;96600000
+113;Martinique;0
+114;Mauritania;400000
+115;Mauritius;28300000
+116;Mexico;1454000000
+117;Moldova;543500000
+118;Mongolia;26100000
+119;Montenegro;124700000
+120;Montserrat;0
+121;Morocco;636400000
+122;Mozambique;123500000
+123;Myanmar;17300000
+124;Namibia;423300000
+125;Nauru;0
+126;Nepal;10600000
+127;Netherlands;5273900000
+128;Netherlands Antilles;19700000
+129;New Caledonia;89800000
+130;New Zealand;1381500000
+131;Nicaragua;16200000
+132;Niger;11500000
+133;Nigeria;400700000
+134;Niue;0
+135;Norway;1176700000
+136;Pakistan;500000
+137;Panama;43100000
+138;Papua New Guinea;25300000
+139;Paraguay;430500000
+140;Peru;1190400000
+141;Philippines;246400000
+142;Poland;1635300000
+143;Portugal;7299200000
+144;Republic of North Macedonia;296300000
+145;Republic of Türkiye;938700000
+146;Reunion island;0
+147;Romania;6113700000
+148;Russia;15044200000
+149;Rwanda;15100000
+150;Saint Helena;300000
+151;Saint Kitts and Nevis;3300000
+152;Saint Lucia;18800000
+153;Saint Pierre And Miquelon;3300000
+154;Saint Vincent and the Grenadines;3800000
+155;Samoa;900000
+156;Sao Tome and Principe;51500000
+157;Saudi Arabia;0
+158;Senegal;97700000
+159;Serbia;1875900000
+160;Seychelles;24100000
+161;Sierra Leone;4000000
+162;Singapore;205100000
+163;Slovakia;1074900000
+164;Slovenia;1110900000
+165;Solomon Islands;1600000
+166;Somalia;0
+167;South Africa;5411400000
+168;Spain;15063500000
+169;Sri Lanka;13800000
+170;State of Palestine;700000
+171;Sudan;2700000
+172;Suriname;8800000
+173;Sweden;3311900000
+174;Switzerland;4053400000
+175;Syrian Arab Republic;3100000
+176;Tajikistan;8500000
+177;Tanzania, the United Republic of;60000000
+178;Thailand;62700000
+179;Timor-Leste;3600000
+180;Togo;59400000
+181;Tonga;1100000
+182;Trinidad and Tobago;20000000
+183;Tunisia;402100000
+184;Turkmenistan;580600000
+185;Tuvalu;500000
+186;Uganda;25200000
+187;Ukraine;2595400000
+188;United Kingdom;19514000000
+189;United States of America;46494800000
+190;Uruguay;996100000
+191;Uzbekistan;261900000
+192;Vanuatu;7200000
+193;Venezuela;149500000
+194;Vietnam;123200000
+195;Yemen;0
+196;Zambia;33800000
+197;Zimbabwe;52200000

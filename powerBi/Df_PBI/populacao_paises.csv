@@ -1,0 +1,251 @@
+;País (ou território dependente);Estimativa da ONU
+0;Índia;1429921746
+1;China;1426391281
+2;Estados Unidos;339987103
+3;Indonésia;277184719
+4;Paquistão;240215932
+5;Nigéria;223899057
+6;Brasil;203080756
+7;Bangladesh;172452382
+8;Rússia;146140931
+9;México;134127189
+10;Etiópia;125092825
+11;Japão;124127899
+12;Filipinas;109581078
+13;Egito;102334404
+14;Vietname;97338579
+15;República Democrática do Congo;89561403
+16;Turquia;84339067
+17;Irã;83992949
+18;Alemanha;83783942
+19;Tailândia;69799978
+20;Reino Unido;69505718
+21;França;65273511
+22;Itália;60461826
+23;Tanzânia;59734218
+24;África do Sul;59308690
+25;Myanmar;54409800
+26;Quénia;53771296
+27;Coreia do Sul;51269185
+28;Colômbia;50882891
+29;Espanha;46754778
+30;Uganda;45741007
+31;Argentina;45195774
+32;Argélia;43851044
+33;Sudão;43849260
+34;Ucrânia;43733762
+35;Iraque;40222493
+36;Afeganistão;38928346
+37;Polónia;37846611
+38;Canadá;37742154
+39;Angola;36996710
+40;Marrocos;36910560
+41;Arábia Saudita;34813871
+42;Uzbequistão;33469203
+43;Peru;32971854
+44;Malásia;32365999
+45;Moçambique;31255435
+46;Gana;31072940
+47;Iémen;29825968
+48;Nepal;29136808
+49;Venezuela;28435940
+50;Madagascar;27691018
+51;Camarões;26545864
+52;Costa do Marfim;26378274
+53;Coreia do Norte;25778816
+54;Austrália;25499884
+55;Níger;24206644
+56;Taiwan;23816775
+57;Sri Lanka;21413249
+58;Burquina Fasso;20903273
+59;Mali;20250833
+60;Roménia;19237691
+61;Malawi;19129952
+62;Chile;19116201
+63;Cazaquistão;18776707
+64;Zâmbia;18383955
+65;Guatemala;17915568
+66;Equador;17643054
+67;Síria;17500657
+68;Países Baixos;17134872
+69;Senegal;16743927
+70;Camboja;16718965
+71;Chade;16425864
+72;Somália;15893222
+73;Zimbabwe;14862924
+74;Guiné;13132795
+75;Ruanda;12952218
+76;Benim;12123000
+77;Burundi;11890784
+78;Tunísia;11818619
+79;Bolívia;11673021
+80;Bélgica;11589623
+81;Haiti;11402528
+82;Cuba;11326616
+83;Sudão do Sul;11193725
+84;República Dominicana;10847910
+85;Grécia;10768477
+86;Chéquia;10708981
+87;Portugal;10467366
+88;Jordânia;10203134
+89;Azerbaijão;10139177
+90;Suécia;10099265
+91;Honduras;9904607
+92;Emirados Árabes Unidos;9890402
+93;Hungria;9660351
+94;Tajiquistão;9537645
+95;Bielorrússia;9449323
+96;Áustria;9006398
+97;Papua-Nova Guiné;8947024
+98;Israel;8655535
+99;Suíça;8654622
+100;Togo;8278724
+101;Serra Leoa;7976983
+102;Hong Kong (China);7496981
+103;Laos;7275560
+104;Bulgária;6948445
+105;Sérvia;6926705
+106;Líbia;6871292
+107;Líbano;6825445
+108;Nicarágua;6624554
+109;Quirguistão;6524195
+110;El Salvador;6486205
+111;Paraguai;6109644
+112;Turquemenistão;6031200
+113;Singapura;5850342
+114;Dinamarca;5792202
+115;Finlândia;5540720
+116;Congo;5518087
+117;Eslováquia;5459642
+118;Noruega;5421241
+119;Omã;5106626
+120;Palestina;5101414
+121;Costa Rica;5094118
+122;Libéria;5057681
+123;Irlanda;4937786
+124;República Centro-Africana;4829767
+125;Nova Zelândia;4822233
+126;Mauritânia;4649658
+127;Panamá;4314767
+128;Kuwait;4270571
+129;Croácia;4105267
+130;Geórgia;3989167
+131;Eritreia;3546421
+132;Uruguai;3473730
+133;Bósnia e Herzegovina;3280819
+134;Mongólia;3278290
+135;Arménia;2963243
+136;Jamaica;2961167
+137;Catar;2881053
+138;Albânia;2877797
+139;Porto Rico (Estados Unidos);2860853
+140;Lituânia;2722289
+141;Moldávia;2640438
+142;Namíbia;2540905
+143;Gâmbia;2416668
+144;Botswana;2351627
+145;Gabão;2225734
+146;Lesoto;2142249
+147;Macedônia do Norte;2083374
+148;Eslovénia;2078938
+149;Guiné-Bissau;1968001
+150;Letónia;1886198
+151;Kosovo;1795666
+152;Bahrein;1701575
+153;Guiné Equatorial;1402985
+154;Trinidad e Tobago;1399488
+155;Estónia;1326335
+156;Timor-Leste;1318445
+157;Maurícia;1271768
+158;Eswatini;1160164
+159;Djibouti;988000
+160;Chipre;900432
+161;Fiji;896445
+162;Reunião (França);895312
+163;Comores;869601
+164;Guiana;786552
+165;Butão;771608
+166;Ilhas Salomão;686884
+167;Macau (China);649335
+168;Montenegro;649335
+169;Luxemburgo;625978
+170;Saara Ocidental (Marrocos);597339
+171;Suriname;586632
+172;Cabo Verde;555987
+173;Maldivas;540544
+174;Malta;441543
+175;Transnístria (Moldávia);469000
+176;Brunei;437479
+177;Guadalupe (França);400124
+178;Belize;397628
+179;Bahamas;393244
+180;Martinica (França);375265
+181;República Turca de Chipre do Norte (Chipre);351965
+182;Islândia;341243
+183;Vanuatu;307145
+184;Guiana Francesa (França);298682
+185;Barbados;287375
+186;Nova Caledônia (França);285498
+187;Polinésia Francesa (França);280908
+188;Mayotte (França);272815
+189;Abecásia (Geórgia);245424
+190;São Tomé e Príncipe;219159
+191;Samoa;198414
+192;Santa Lúcia;183627
+193;Guam (Estados Unidos);168775
+194;Curaçau (Países Baixos);164093
+195;Kiribati;119449
+196;Micronésia;114419
+197;Granada;110000
+198;Aruba (Países Baixos);106537
+199;Tonga;106017
+200;U.S. Ilhas Virgens (Estados Unidos);105870
+201;São Vicente e Granadinas;104332
+202;Jersey (Reino Unido);103267
+203;Seicheles;99258
+204;Antígua e Barbuda;93219
+205;Ilha de Man (Reino Unido);84263
+206;Andorra;79034
+207;Domínica;72412
+208;Ilhas Cayman (Reino Unido);68136
+209;Guernsey (Reino Unido);67462
+210;Bermudas (Reino Unido);63867
+211;Gronelândia (Dinamarca);56653
+212;Ossétia do Sul (Geórgia);53532
+213;Ilhas Faroe (Dinamarca);52889
+214;Marianas Setentrionais (Estados Unidos);49481
+215;São Cristóvão e Nevis;47606
+216;Ilhas Turks e Caicos (Reino Unido);45114
+217;Samoa Americana (Estados Unidos);45035
+218;São Martinho (Países Baixos);42876
+219;Ilhas Marshall;42050
+220;Liechtenstein;39039
+221;Mónaco;36686
+222;San Marino;35745
+223;Gibraltar (Reino Unido);32669
+224;São Martinho (França);31948
+225;Ilhas Virgens Britânicas (Reino Unido);30122
+226;Bonaire (Países Baixos);20104
+227;Palau;18024
+228;Ilhas Cook;17459
+229;Wallis e Futuna (França);15289
+230;Anguila (Reino Unido);15094
+231;Nauru;12511
+232;Tuvalu;11204
+233;São Bartolomeu (França);9131
+234;Santa Helena (território) do Reino Unido);6158
+235;São Pedro e Miquelão (França);5816
+236;Montserrat (Reino Unido);5085
+237;Ilhas Malvinas (Reino Unido);3662
+238;Santo Eustáquio (Países Baixos);3139
+239;Território Britânico do Oceano Índico (UK);3000
+240;Ilha Norfolk (Austrália);2169
+241;Ilha Christmas (Austrália);1996
+242;Saba (Países Baixos);1933
+243;Niue;1626
+244;Tokelau (NZ);1411
+245;Ilha de Ascensão (Reino Unido);1100
+246;Vaticano;825
+247;Ilhas Cocos (Keeling) (Austrália);596
+248;Tristão da Cunha (Reino Unido);264
+249;Ilhas Pitcairn (Reino Unido);67
