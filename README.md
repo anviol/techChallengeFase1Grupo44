@@ -1,6 +1,26 @@
+
 # Tech Challenge Fase 1 Grupo 44
 Trabalho em grupo do curso de analise da dados da Fiap
 
+# Ao professor
+
+1) Os dados foram tradados via Python nos arquivos:
+    - notebooks\tech_challenge.ipynb
+    - powerBi\tech_chal_1.ipynb
+
+2) Os dados tratados foram exportados e usados no Power BI:
+    - powerBi\Df_PBI\*.csv
+    - powerBi\Df_Python\*.csv
+
+3) Os gráficos foram feitos no Power BI no Arquivo: powerBi\tech_chalenge_1.pbix
+    
+    Pode também ser encontrato no [link](https://app.powerbi.com/view?r=eyJrIjoiMWVjNDQwZjItNTQ4OS00ZTNhLWIzZmQtNzliYWJkZDYxNjgyIiwidCI6ImRjYWFkMTFhLTkyNWMtNDdlYi04NjFjLTY5MDk2NWE0MDhlZSJ9)
+
+4) A analise foi feita via vai DOC:
+    - Arquivo no chaminho: powerBi\Grupo 44 - Turma 4DTAT - TECH CHALLANGE – Exportação de Vinho.pdf
+    - Que pode também ser acessado pelo [link](https://onedrive.live.com/edit?id=9A8BDF6EEFCFCA1A!2518&resid=9A8BDF6EEFCFCA1A!2518&ithint=file%2cdocx&authkey=!AGEywPdWXAievuY&wdo=2&cid=9a8bdf6eefcfca1a).
+
+# A equipe
 # Trabalhando a apresentação com o Stream Lite, no VS Code, no Windows
 
 Instalação baseada na documentação [Docs Streamlit](https://docs.streamlit.io/get-started/installation/anaconda-distribution)
